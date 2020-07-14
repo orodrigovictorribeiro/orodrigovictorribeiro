@@ -4,7 +4,10 @@
 
 [![Linkedin: orodrigovictorribeiro](https://img.shields.io/static/v1?label=&message=orodrigovictorribeiro&logo=Linkedin&link=https://www.linkedin.com/in/orodrigovictorribeiro&style=flat-square&color=black)](https://www.linkedin.com/in/orodrigovictorribeiro)
 
----
-languages:  C#, PHP, Python, NodeJS/JavaScript
-interests:  .NET, Architecture, Software Enginnering, Design Patterns, SOLID, AWS, Serverless
----
+```javascript
+const me = {
+  code: [.NET/C#, PHP, NodeJS/JavaScript, Python],
+  architecture: ["microservices", "event-driven", "serverless", "cloud"],  
+  interests: "I am currently very interested in topics related to software architecture, patterns, high availability and good programming practices"
+}
+```
