@@ -6,7 +6,7 @@
 
 ```javascript
 const me = {
-  code: [".NET/C#", "PHP", "NodeJS/JavaScript", "Python"],
+  code: [".NET/C#", "PHP", "NodeJs/JavaScript", "Python"],
   architecture: ["microservices", "event-driven", "serverless", "cloud"],  
   interests: "I am currently very interested in topics related to software architecture, patterns, high availability and good programming practices"
 }
